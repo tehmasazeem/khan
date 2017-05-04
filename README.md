@@ -1,2 +1,2 @@
 # khan
-first try
+Hello humans
